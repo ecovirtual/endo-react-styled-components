@@ -1,8 +1,8 @@
 // import 'ses';
 import logo from "./logo.svg";
 import "./App.css";
-// import styled from "styled-components";
-import styled from "@emotion/styled";
+import styled from "styled-components";
+// import styled from "@emotion/styled";
 
 const StyledDiv = styled.div`
   width: 100vw;
